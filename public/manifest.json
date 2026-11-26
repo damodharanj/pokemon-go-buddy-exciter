@@ -1,0 +1,17 @@
+{
+  "name": "Pokémon GO Buddy Exciter",
+  "short_name": "Buddy Exciter",
+  "description": "Get your Pokémon GO buddy excited without spending a Poffin.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/pokeball.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
